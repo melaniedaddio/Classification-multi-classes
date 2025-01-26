@@ -1,4 +1,8 @@
 # Classification-multi-classes
+## Pour importer les tables propres faire 
+'''
+%run EDA.ipynb
+'''
 ## EDA (Mélanie): 
 Traitement et analyse des varaiables (hors valeurs manquantes et normalisation)
 ## Projet (Mélanie) : 
