@@ -9,7 +9,7 @@ ou
 importer les fichiers "train_df_clean.csv" et "test_df_clean.csv"
 
 ## projet_classification_cirrhosis_modele : Notebook principal à regarder si on veut mieux comprendre comment on a construit notre score
-Modèle final choisi comme etant le plus performant, avec les encodages, normalisations et traitement des valeurs manquantes les plus performantes.
+Modèle final choisi comme étant le plus performant, avec les encodages, normalisations et traitement des valeurs manquantes les plus performantes.
 
 ## EDA.ipynb : 
 Traitement et analyse des variables (hors valeurs manquantes et normalisation). Ce notebook permet de générer deux fichiers csv traités : "train_df_clean.csv" et "test_df_clean.csv", qui seront utilisés dans tous nos notebooks.
