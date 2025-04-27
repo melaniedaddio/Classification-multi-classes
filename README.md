@@ -1,4 +1,4 @@
-# Projet: Classification-multi-classes (Kaggle Compétition)
+# Classification-multi-classes (Kaggle Compétition)
 
 ## Description
 Développement d'un modèle de machine learning pour prédire la probabilité des statuts de patients (vivant, transplanté, décédé) à partir de données médicales. Utilisation d’algorithmes de classification et optimisation basée sur l'opposé de la log-vraisemblance. Prétraitement des données, feature engineering et évaluation des performances du modèle pour améliorer la précision des prédictions.
