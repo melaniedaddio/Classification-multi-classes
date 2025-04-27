@@ -13,7 +13,7 @@ Les principaux notebooks du projet :
 
 - **`projet_classification_cirrhosis_modele.ipynb`** : Notebook principal qui présente le modèle final retenu avec les encodages, normalisations et traitements des valeurs manquantes les plus performants.
 - **`EDA.ipynb`** : Notebook d'analyse exploratoire des données (hors valeurs manquantes et normalisation), qui permet de générer les fichiers `train_df_clean.csv` et `test_df_clean.csv`.
-- **`Projet.ipynb`** : Présentation des recherches, idées et décisions prises avant d’aboutir au modèle final. Ce notebook sert de documentation et n’a pas besoin d’être exécuté.
+- **`projet.ipynb`** : Présentation des recherches, idées et décisions prises avant d’aboutir au modèle final. Ce notebook sert de documentation et n’a pas besoin d’être exécuté.
 - **`reseau_neuronne.ipynb`** : Implémentation d’un réseau de neurones à titre expérimental. Bien que nos autres modèles soient plus performants pour ce cas d’usage, ce notebook a été réalisé pour l’entraînement et la pratique.
 
 ## Résultats
